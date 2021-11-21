@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/BankAccount.unity
+    guid: f48c04c1f4cd1824287899dfb5a45d3b
   m_configObjects: {}
